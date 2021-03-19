@@ -1,0 +1,6 @@
+what we're going to do here is to build a model in order to predict the religion of a given country.
+
+As they are more than two countries, we're going to make a multilabel classification.
+
+the first step, I think, is to binarise datas. but I'll check in the internet before going on.
+I also think it's better to begin with a simple data set such as iris, because i've never been doing multilabel classification.
